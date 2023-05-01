@@ -1,0 +1,7 @@
+- The question is about advice for college or graduate students interested in pursuing a data engineering career and how to prepare for the transition to industry.
+- There are many online resources available, but it can be tricky to learn data engineering without working with actual data and a business case that provides value.
+- One piece of advice is to look for internships that expose students to that kind of environment.
+- Attitude, work ethic, and a drive to learn are important factors to consider when hiring data engineers.
+- Having a foundation in software development or other related fields can also be helpful in pursuing a career as a data engineer.
+- Building a portfolio and demonstrating that one can solve tough data and AI problems in a team-like manner is important.
+- Databricks has a lot of open, free learning and runs training programs, and they have a university alliance program where they offer resources to universities to train people on Databricks.

@@ -1,0 +1,5 @@
+1. The speaker views data both as a document and technology, and their background in information science and archiving informs this perspective. 
+2. The speaker's relationship with data is tied to their commitment to human rights, and they work in developing information infrastructures for human rights organizations. 
+3. Data-driven practice is becoming more ubiquitous and presents both promises of innovation and progress as well as threats and risks to social norms and activities. 
+4. Pursuing data ethics requires acknowledging that data is never raw, never neutral, and always has a context that is related to the ecosystem it exists in. 
+5. Ethical data practices should focus on improving people's lives and knowing when not to use data, as well as designing with stakeholders and communicating how algorithms work to non-experts.

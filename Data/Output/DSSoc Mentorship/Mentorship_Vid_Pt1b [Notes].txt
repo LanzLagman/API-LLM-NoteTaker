@@ -1,0 +1,5 @@
+1. Data ethics and the impact of datafication are often discussed in the context of the global north, but those examples of harm should inform developing nations as they mature their own datafication practices. 
+2. The data science maturity of the Philippines is hindered by the poor management of records and documents which are necessary for accurate data. 
+3. The video discusses the ethical approach of user-centered design when developing databases and algorithms, where the focus is on identifying user needs rather than designing for technology. 
+4. Feminist approaches focus on centering care, responsibility, and minimizing harm through acts of refusal and clear commitments. 
+5. Pursuing ethical data science requires interdisciplinary learning, constant engagement, and a commitment to serving the communities being studied.

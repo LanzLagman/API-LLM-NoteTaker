@@ -1,0 +1,6 @@
+1. The speaker highlights the importance of ethical considerations in data science.
+2. The speaker emphasizes the need for consent and privacy when collecting and analyzing data.
+3. The ethical issues surrounding web scraping are discussed, and the importance of analyzing the purpose and content of web-scraped information is emphasized.
+4. The speaker recommends the text "Raw Data is an Oxymoron" and the work of Luciano Floridi for those interested in learning more about data ethics.
+5. The importance of developing domain-specific knowledge and interdisciplinary skills is stressed.
+6. The speaker recommends learning the programming language R.
