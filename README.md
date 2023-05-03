@@ -98,3 +98,9 @@ transcription_price: 0.15260 USD
 summarization_price: 0.00816 USD
 total_job_price: 0.16076 USD
 ```
+
+## To do:
+
+* Add a separate class called `OpenAI_Interrogator` that creates a chatbot using GPT-3.5 turbo that users can use to discuss about the summarization output.
+* Add an option for `OpenAI_NoteTaker` to split either the input audio/video file or the output transcription. This will be useful if discussions are lengthy enough, though manual splitting of input files is still recommended.
+* Make an app out of this repository using [StreamLit](https://docs.streamlit.io/library/get-started).
