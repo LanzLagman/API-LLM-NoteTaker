@@ -1,11 +1,13 @@
 import streamlit as st
-# import OpenAI_NoteTaker as nt
+import OpenAI_NoteTaker as nt
+import OpenAI_Summarizer as sm
+import OpenAI_Transcriber as transcriber
 import os
 
 # NOTE: magic-bin currently doesn't provide support for linux, but it supports x32, x64 and OSX
 
 # const
-api_key_local = st.secrets['OPEN_API_KEY']
+# api_key_local = st.secrets['OPEN_API_KEY']
 
 # functions
 def testCallback(file):
