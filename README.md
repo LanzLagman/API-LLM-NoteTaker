@@ -6,6 +6,9 @@ This repo contains a series of Jupyter Notebook tutorials on how I made these cl
 
 ## Installation
 * Install dependencies first before installing the NoteTaker.
+```
+pip install -r requirements.txt
+```
 
 ### Dependencies
 * [openai](https://pypi.org/project/openai/): provides access to the OpenAI Whisper-1 and GPT-3.5 APIs.
