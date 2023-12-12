@@ -1,0 +1,8 @@
+bin
+lib
+include
+pyvenv.cfg
+etc
+share
+
+*.pyc
