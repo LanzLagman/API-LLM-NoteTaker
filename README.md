@@ -9,6 +9,7 @@ This repo contains a series of Jupyter Notebook tutorials on how I made these cl
 ```
 pip install -r requirements.txt
 ```
+* If there are any errors pertaining to `failed to find libmagic`, kindly refer to [the installation section](https://github.com/ahupp/python-magic) for more information.
 
 ### Dependencies
 * [openai](https://pypi.org/project/openai/): provides access to the OpenAI Whisper-1 and GPT-3.5 APIs.
