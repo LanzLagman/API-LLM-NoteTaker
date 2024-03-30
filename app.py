@@ -1,7 +1,7 @@
 import streamlit as st
-import OpenAI_NoteTaker as nt
-import OpenAI_Summarizer as sm
-import OpenAI_Transcriber as transcriber
+# import OpenAI_NoteTaker as nt
+# import OpenAI_Summarizer as sm
+# import OpenAI_Transcriber as transcriber
 import os
 
 # NOTE: magic-bin currently doesn't provide support for linux, but it supports x32, x64 and OSX
